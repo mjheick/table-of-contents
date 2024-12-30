@@ -1,5 +1,7 @@
 # About Me
-Matthew Heick. 40+. Like to do challenging things. Below is a curated list of repositories I like. You can selectively uncurate them by manually clicking other things.
+Matthew Heick. 40+. Like to do challenging things.
+
+Below is a curated list of repositories I like. You can selectively uncurate them by manually clicking other things.
 
 [github profile](https://github.com/mjheick) | [linkedin](https://www.linkedin.com/in/matthew-heick-048785123/) | [indeed](https://profile.indeed.com/p/matthewh-gbbmwkm) | [g.dev](https://g.dev/mjheick)
 
